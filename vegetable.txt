@@ -1,3 +1,5 @@
 apple
-Pineapple
 cherry
+cherry
+pear
+Peach
